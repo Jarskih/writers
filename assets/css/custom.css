@@ -11,3 +11,10 @@
 	width: 70%;
 	margin: auto;
 }
+
+.flex-middle {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	vertical-align: middle;
+}
